@@ -2,5 +2,5 @@
   "port": 80,
   "mongoUri": "mongodb+srv://igor:123456qwe@cluster0.g6oui.mongodb.net/app?retryWrites=true&w=majority",
   "jwtSecret": "scretmern",
-  "baseUrl": "https://mern-links-f82d1.web.app/"
+  "baseUrl": "https://optimistic-shaw-59bcdb.netlify.app/"
 }
